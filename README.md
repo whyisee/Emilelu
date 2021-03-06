@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MSDNicrosoft/MSDNicrosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-status.msdnicrosoft.cn/api?username=MSDNicrosoft&show_icons=true&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-status.msdnicrosoft.cn/api?username=MSDNicrosoft&layout=compact&hide_border=true&hide=html,css)
+![Github stats](https://github-status.msdnicrosoft.cn/api?username=MSDNicrosoft&show_icons=true&include_all_commits=true)
